@@ -1,0 +1,25 @@
+*, *::before, *::after{
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 48px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.create-acc{
+    margin: 25vh 25vw;
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+}
+
+.auth-link-text{
+    text-align: center;
+}
+.right-container{
+    text-align: center;
+}
+.inner-container2{
+    text-align: center;
+}
